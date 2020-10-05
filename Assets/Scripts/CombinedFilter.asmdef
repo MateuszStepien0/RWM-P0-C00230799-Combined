@@ -1,0 +1,16 @@
+{
+    "name": "CombinedFilter",
+    "references": [
+        "GUID:77b19792b63c57642b8118f8cde79d63",
+        "GUID:665c50d61f144e94ea2fb7ac3e42d694"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
